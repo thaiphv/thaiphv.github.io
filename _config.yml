@@ -1,13 +1,13 @@
 # Site settings
-title: Clean Blog
+title: Thai Pham's Blog
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/startbootstrap-clean-blog-jekyll"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+email: thaiphv@gmail.com
+description: "This is a place where I keep my notes that I learn on the go as a Web developer"
+baseurl: ""
+url: ""
+twitter_username: thaiphv
+github_username:  thaiphv
+facebook_username:  thaiphv
 
 # Build settings
 markdown: kramdown
